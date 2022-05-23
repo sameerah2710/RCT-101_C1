@@ -1,3 +1,6 @@
 .task {
   /* Sample  */
+  display: flex;
+  margin: 2px 2 10px 0;
+  justify-content: space-around;
 }
